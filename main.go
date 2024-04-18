@@ -1,4 +1,4 @@
-package main
+package main //основной пакет
 
 import (
 	"fmt"
